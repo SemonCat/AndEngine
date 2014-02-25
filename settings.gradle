@@ -1,0 +1,1 @@
+include ':sample', ':andengine-gles2', ':andengine-gles2-Box2d'
